@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentChallenge</string>
+    <string name="health_activity">Stay Healthy</string>
+    <string name="cucitangan_activity">Stay Clean</string>
+    <string name="masker_activity">Follow the Rule</string>
+    <string name="healthylife_activity">Healthy Life</string>
+</resources>
