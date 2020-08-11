@@ -12,6 +12,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="#2d3561"
         android:text="Sehat Pangkal Makmur"
         android:textSize="20sp"
         android:textStyle="bold" />
@@ -25,5 +26,27 @@
         android:layout_height="236dp"
         android:src="@drawable/doctor" />
 
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kesehatan menjadi dasar kehidupan kita untuk menjalankan kegiatan sehari-hari. Sudah menjadi keharusan kita untuk menjaga kesehatan."
+        android:textColor="#bb1542"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mencegah Lebih Baik daripada Mengobati!!!"
+        android:textColor="#bb1542"
+        android:textSize="30dp"
+        android:textStyle="bold" />
 </LinearLayout>

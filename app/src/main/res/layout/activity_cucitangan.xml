@@ -12,8 +12,9 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="#2d3561"
         android:text="Cara mencuci tangan yang benar"
-        android:textSize="20sp"
+        android:textSize="25dp"
         android:textStyle="bold" />
 
     <Space
@@ -25,5 +26,64 @@
         android:layout_height="193dp"
         android:src="@drawable/cuci" />
 
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- Basahi Tangan Seluruhnya Dengan Air Bersih Mengalir"
+        android:textColor="#ff0000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- Gosok Sabun Ke Telapak, Punggung Tangan dan Sela Jari-Jari"
+        android:textColor="#ff0000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- Bersihkan Bagian Bawah Kuku-Kuku"
+        android:textColor="#bb1542"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- Bilas Tangan Dengan Air Bersih Mengalir"
+        android:textColor="#bb1542"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="- Keringkan Tangan"
+        android:textColor="#bb1542"
+        android:textSize="20dp"
+        android:textStyle="bold" />
 
 </LinearLayout>

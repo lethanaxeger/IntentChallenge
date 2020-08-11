@@ -12,6 +12,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:textColor="#2d3561"
         android:text="Pola Hidup Sehat"
         android:textSize="20sp"
         android:textStyle="bold" />
@@ -25,4 +26,15 @@
         android:layout_height="291dp"
         android:src="@drawable/polahidupsehat1" />
 
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. Istirahat yang cukup \n2. Menjaga Kebugaran tubuh \n3. Perbanyak minum air putih \n4. Makan makanan yang bergizi \n5. Managemen Waktu"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
 </LinearLayout>
