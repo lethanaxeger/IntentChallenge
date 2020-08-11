@@ -22,7 +22,7 @@
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="340dp"
-        android:src="" />
+        android:layout_height="291dp"
+        android:src="@drawable/polahidupsehat1" />
 
 </LinearLayout>
